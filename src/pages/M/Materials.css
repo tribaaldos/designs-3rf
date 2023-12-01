@@ -1,0 +1,19 @@
+
+.canvas-door
+{
+
+    width: 800px;
+    height: 400px;
+    background: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.canvas-grass
+{
+
+    width: 800px;
+    height: 400px;
+    background: red;
+    
+}
